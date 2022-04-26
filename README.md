@@ -1,3 +1,6 @@
+<img src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="300" />
+
+
 <h1 align="center">Hi 👋, I'm Akash Bind</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
