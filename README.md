@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Bind</h1>
 <!-- <img src ="https://c.tenor.com/RIqgagpV8NwAAAAC/akash-network-decloud.gif" align="right" width="200" height="200" /> -->
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
 
