@@ -1,4 +1,4 @@
-<img src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="300" />
+<!-- <img src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="300" /> -->
 
 
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1izIcDbbU9Iy36FJmSkMWdUl7pHaQaVlb/view?usp=sharing](https://drive.google.com/file/d/1izIcDbbU9Iy36FJmSkMWdUl7pHaQaVlb/view?usp=sharing)
 
-<img src ="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" align="right" width="250" height="200" />
+<img src ="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" align="right" width="300" height="300" />
 
 - ⚡ Fun fact **Gaming and travelling**
 
