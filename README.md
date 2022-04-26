@@ -1,6 +1,7 @@
 <img src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="300" />
 
 
+
 <h1 align="center">Hi 👋, I'm Akash Bind</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
@@ -15,6 +16,8 @@
 - 📫 How to reach me **akashbind12@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1izIcDbbU9Iy36FJmSkMWdUl7pHaQaVlb/view?usp=sharing](https://drive.google.com/file/d/1izIcDbbU9Iy36FJmSkMWdUl7pHaQaVlb/view?usp=sharing)
+
+<img src ="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" align="right" width="250" height="200" />
 
 - ⚡ Fun fact **Gaming and travelling**
 
