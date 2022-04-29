@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [https://intern-theory-clone-project.vercel.app/](https://intern-theory-clone-project.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://akash-portfolio-lilac.vercel.app/](https://akash-portfolio-lilac.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
