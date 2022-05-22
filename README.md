@@ -21,7 +21,9 @@
 
 - ⚡ Fun fact **Gaming and travelling**
 
-<img src ="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" align="right" border="1px solid red" width="250" height="250" />
+<!-- <div text-align = "right" border="1px solid red">
+  <img src ="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" align="right"   width="250" height="250" />
+</div> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
