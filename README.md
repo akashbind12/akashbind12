@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akashbind12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1izIcDbbU9Iy36FJmSkMWdUl7pHaQaVlb/view?usp=sharing](https://drive.google.com/file/d/1izIcDbbU9Iy36FJmSkMWdUl7pHaQaVlb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1s9kZ-X8eDJICpkRZM-8SET3qpA3Gl6Qk?usp=sharing](Resume)
 
 - ⚡ Fun fact **Gaming and travelling**
 
