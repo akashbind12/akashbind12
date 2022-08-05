@@ -57,11 +57,11 @@
 </p>
 
 
-<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashbind12&show_icons=true&locale=en&layout=compact" alt="akashbind12" /></p>
+<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashbind12&show_icons=true&locale=en&layout=compact" alt="akashbind12" /></p>
 
 
-<p>&nbsp;<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=akashbind12&show_icons=true&locale=en" alt="akashbind12" /></p>
+<p>&nbsp;<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=akashbind12&show_icons=true&locale=en" alt="akashbind12" /></p>
 
 
-<p align="center" ><img border="1px solid red" align="center" margin="auto" width="450px"  src="https://github-readme-streak-stats.herokuapp.com/?user=akashbind12&" alt="akashbind12" /></p>
+<p align="center"margin-top="20px" ><img border="1px solid red" align="center" margin="auto" width="450px"  src="https://github-readme-streak-stats.herokuapp.com/?user=akashbind12&" alt="akashbind12" /></p>
 
