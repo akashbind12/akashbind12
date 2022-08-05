@@ -25,11 +25,20 @@
   <img src ="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" align="right"   width="250" height="250" />
 </div> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akashbind12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashbind12" height="30" width="40" /></a>
-<a href="https://instagram.com/akashbind12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashbind12" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+
+</p>'
+
+<div align="center" >
+
+ <a href="https://www.linkedin.com/in/akashbind12">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+ 
+<a href="">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</div>
 
 <h1></h1>
 <p align="center">
