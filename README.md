@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [https://akash-bind-portfolio.netlify.app/](https://akash-bind-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://akash-portfolio-lilac.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **akashbind12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1s9kZ-X8eDJICpkRZM-8SET3qpA3Gl6Qk?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16nOuT1WI-t-h-osOcQJIqeo4eYU520zO/view?usp=sharing)
 
 - ⚡ Fun fact **Gaming and travelling**
 
