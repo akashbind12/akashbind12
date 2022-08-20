@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
 
-- 🌱 I’m currently learning **React and Redux**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://akash-portfolio-lilac.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
