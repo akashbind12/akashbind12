@@ -50,6 +50,10 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img src="https://img.shields.io/badge/-MySQL-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+   <img src="https://img.shields.io/badge/-Vue.js-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+   <img src="https://img.shields.io/badge/vuetify.js-43853D?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
+     <img src="https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   </br>
     </br>
