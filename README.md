@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://akash-portfolio-lilac.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akash-portfolio-lilac.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **akashbind12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16nOuT1WI-t-h-osOcQJIqeo4eYU520zO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kHbZh5_3ZDsN7xKAbX0dgHnrC7AxSZSm/view?usp=sharing)
 
 - ⚡ Fun fact **Gaming and travelling**
 
