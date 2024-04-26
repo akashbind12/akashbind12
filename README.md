@@ -9,19 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://akash-portfolio-lilac.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akashbind12-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **akashbind12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kHbZh5_3ZDsN7xKAbX0dgHnrC7AxSZSm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1slBVV0BuLeZCeTnawfumhLFQllYR2LBv/view?usp=drivesdk)
 
 - ⚡ Fun fact **Gaming and travelling**
-
-<!-- <div text-align = "right" border="1px solid red">
-  <img src ="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" align="right"   width="250" height="250" />
-</div> -->
 
 <h3 align="center">Connect with me:</h3>
 
