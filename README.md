@@ -1,12 +1,10 @@
 <img src="https://user-images.githubusercontent.com/97519781/165378050-f81bf1f6-2be1-4a04-a11d-314a7628e58f.png"  width="100%" height="170" />
 
-
-
 <h1 align="center">Hi 👋, I'm Akash Bind</h1>
 <!-- <img src ="https://c.tenor.com/RIqgagpV8NwAAAAC/akash-network-decloud.gif" align="right" width="200" height="200" /> -->
 <h3 align="center">I'm a passionate full-stack web developer with experience in crafting robust and user-friendly web applications. My journey into the world of coding began with a curiosity-driven exploration, and since then, I've been hooked on creating digital experiences that seamlessly blend functionality with aesthetics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
+<p border="1px solid Red" align="center"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://akashbind12-portfolio.vercel.app/)
 
@@ -20,7 +18,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-</p>'
+</p>
 
 <div align="center" >
 
@@ -67,5 +65,5 @@
 <img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=akashbind12&show_icons=true&locale=en" alt="akashbind12" />
 </div>
 
-<p align="center"margin-top="20px" ><img border="1px solid red" align="center" margin="auto" width="450px"  src="https://github-readme-streak-stats.herokuapp.com/?user=akashbind12&" alt="akashbind12" /></p>
+<p align="center"margin-top="0px" ><img border="1px solid red" align="center" margin="auto" width="450px"  src="https://github-readme-streak-stats.herokuapp.com/?user=akashbind12&" alt="akashbind12" /></p>
 
