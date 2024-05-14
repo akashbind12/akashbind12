@@ -1,11 +1,10 @@
 <img src="https://user-images.githubusercontent.com/97519781/165378050-f81bf1f6-2be1-4a04-a11d-314a7628e58f.png"  width="100%" height="170" />
-<img src ="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966" align="right" width="300" height="300" />
 
 
 
 <h1 align="center">Hi 👋, I'm Akash Bind</h1>
 <!-- <img src ="https://c.tenor.com/RIqgagpV8NwAAAAC/akash-network-decloud.gif" align="right" width="200" height="200" /> -->
-<h3 align="center">A passionate full stack web developer from India.</h3>
+<h3 align="center">I'm a passionate full-stack web developer with experience in crafting robust and user-friendly web applications. My journey into the world of coding began with a curiosity-driven exploration, and since then, I've been hooked on creating digital experiences that seamlessly blend functionality with aesthetics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **akashbind12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1slBVV0BuLeZCeTnawfumhLFQllYR2LBv/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y7xauEmCT7vds2d9aKb746Q9k_6N7_KZ/view?usp=drive_link)
 
 - ⚡ Fun fact **Gaming and travelling**
 
@@ -64,8 +63,8 @@
 </p>
 
 <div align="center" >
-<img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashbind12&show_icons=true&locale=en&layout=compact" alt="akashbind12" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashbind12&show_icons=true&locale=en" alt="akashbind12" />
+<img  width="48%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashbind12&show_icons=true&locale=en&layout=compact" alt="akashbind12" />
+<img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=akashbind12&show_icons=true&locale=en" alt="akashbind12" />
 </div>
 
 <p align="center"margin-top="20px" ><img border="1px solid red" align="center" margin="auto" width="450px"  src="https://github-readme-streak-stats.herokuapp.com/?user=akashbind12&" alt="akashbind12" /></p>
