@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash Bind</h1>
 <!-- <img src ="https://c.tenor.com/RIqgagpV8NwAAAAC/akash-network-decloud.gif" align="right" width="200" height="200" /> -->
-<h3 align="center">Highly motivated and skilled Full Stack Web
-Developer with proven expertise in building robust
-and scalable applications.</h3>
+<h3 align="center">Results-oriented Full Stack Web Developer with a track record of delivering robust and scalable applications. Adept at navigating dynamic environments, eager to contribute expertise to innovative projects within a progressive organization.</h3>
 
 <p border="1px solid Red" align="center"> <img src="https://komarev.com/ghpvc/?username=akashbind12&label=Profile%20views&color=0e75b6&style=flat" alt="akashbind12" /> </p>
 
