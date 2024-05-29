@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/97519781/165378050-f81bf1f6-2be1-4a04-a11d-314a7628e58f.png"  width="100%" height="170" />
+<!--<img src="https://user-images.githubusercontent.com/97519781/165378050-f81bf1f6-2be1-4a04-a11d-314a7628e58f.png"  width="100%" height="170" /> -->
 
 <h1 align="center">Hi 👋, I'm Akash Bind</h1>
 <!-- <img src ="https://c.tenor.com/RIqgagpV8NwAAAAC/akash-network-decloud.gif" align="right" width="200" height="200" /> -->
